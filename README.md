@@ -1,5 +1,7 @@
 > # How to create your README
 ---
+![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-26-blue.svg)
+---
 
 A readme is much more than plain text, a readme is what visitors first observe in a repository, so we must have a little attention when creating it so we can capture the attention of visitors, in addition to being colorful it will cause a good impression, and will give confidence.
 Which suggests that the code is more likely to have attention to detail and maintenance.
@@ -41,6 +43,16 @@ To create a heading, add one to six **#** symbols before your heading text. The 
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
+
+### Styling text
+You can indicate emphasis with bold, italic, or strikethrough text.
+
+| style   | sintax  | keyboard | example | output|
+| --------|---------|----------|---------|-------|
+| Monday  | pasta   | $6       |         |       |
+| Tuesday | chicken | $8       |         |       |
+
+
 ---
 > ## contact 💬
 
