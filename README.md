@@ -13,8 +13,20 @@ Markdown is an easy way to add formatting to web texts. With format we refer to 
 ### What is it for
 Now that we've talked about what Markdown is, we have to see what it's for. The emphasis we will put is clearly web, but there are other things that can be done with Markdown. For example, to-do lists.
 
-### Structure of a readme
-The structure of a readme can take various forms.
+> ## Structure of a readme
+
+### Introduction
+In this section we must offer a summary of what the project consists of, that is, we must give a summary, clear and concise idea of what the project consists of.
+ 
+### Project information
+Here we must offer the technical status information of the project. The version it is in, the bugs, the latest build, the technologies used, etc.
+
+### Documentation
+This is the most important part. This is where we must specify everything we must do to launch the project. What files to download, how to build the database if needed, configuration of startup paths, etc.
+
+### Extra information
+In this section we must add additional information that users can use to clarify details that they have not understood in the rest of the readme or contact information such as social networks, email, etc.
+
 ---
 > ## contact 💬
 
