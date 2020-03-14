@@ -107,7 +107,7 @@ You can create a nested list by indenting one or more list items below another i
    - First nested list item
      - Second nested list item
 ```	 
-	 1. First list item
+1. First list item
    - First nested list item
      - Second nested list item
 
