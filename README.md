@@ -56,6 +56,62 @@ You can indicate emphasis with bold, italic, or strikethrough text.
 |Bold and nested italic| ** ** and _ _   |                     | ```**_extremely_ important**``` | **_extremely important_**|
 |All bold and italic   | *** ***         |                     |  ```***text is important*** ```| ***text is important***  |
 
+### Quoting text
+You can quote text with a >.
+```
+In the words of Abraham Lincoln:
+
+> Pardon my French
+```
+In the words of Abraham Lincoln:
+
+> Pardon my Frenc
+
+### Quoting code
+You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
+```
+Use `git status` to list all new or modified files that haven't yet been committed.
+```
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+### Links
+You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
+```
+This site was built using [GitHub Pages](https://pages.github.com/).
+```
+This site was built using [GitHub Pages](https://pages.github.com/)
+
+### Lists
+You can make an unordered list by preceding one or more lines of text with - or *.
+```
+- George Washington
+- John Adams
+- Thomas Jefferson
+```
+- George Washington
+- John Adams
+- Thomas Jefferson
+To order your list, precede each line with a number.
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+### Nested Lists
+You can create a nested list by indenting one or more list items below another item.
+```
+1. First list item
+   - First nested list item
+     - Second nested list item
+```	 
+	 1. First list item
+   - First nested list item
+     - Second nested list item
+
+
 ---
 > ## contact 💬
 
