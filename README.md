@@ -1,6 +1,6 @@
 > # How to create your README
 ---
-![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-26-blue.svg)
+![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-26-blue.svg) ![techs](https://img.shields.io/badge/marckdown-yellow.svg)
 
 ---
 
