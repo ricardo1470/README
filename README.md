@@ -38,6 +38,9 @@ To create a heading, add one to six **#** symbols before your heading text. The 
 ###### The smallest heading
 
 ```
+# The largest heading
+## The second largest heading
+###### The smallest heading
 ---
 > ## contact 💬
 
