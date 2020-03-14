@@ -48,11 +48,13 @@ To create a heading, add one to six **#** symbols before your heading text. The 
 ### Styling text
 You can indicate emphasis with bold, italic, or strikethrough text.
 
-| style   | sintax  | keyboard | example | output|
-| --------|---------|----------|---------|-------|
-| Monday  | pasta   | $6       |         |       |
-| Tuesday | chicken | $8       |         |       |
-
+| style                | sintax          | keyboard            | example                   | output             |
+| ---------------------|-----------------|---------------------|---------------------------|--------------------|
+| bold                 | ** ** or __ __  | command/control + b |  ```**This is bold text**```| **bold**               |
+| italic               | * * or _ _      | command/control + i |  ```* italicized *```     | *italicized*         |
+|Strikethrough         |  ~~ ~~          |                     |   ```~~mistaken~~ ```      | ~~mistaken~~           |
+|Bold and nested italic| ** ** and _ _   |                     | ```**_extremely_ important**``` | **_extremely important_**|
+|All bold and italic   | *** ***         |                     |  ```***text is important*** ```| ***text is important***  |
 
 ---
 > ## contact 💬
