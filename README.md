@@ -27,6 +27,15 @@ This is the most important part. This is where we must specify everything we mus
 ### Extra information
 In this section we must add additional information that users can use to clarify details that they have not understood in the rest of the readme or contact information such as social networks, email, etc.
 
+> ## Basic writing and formatting syntax
+
+### Headings
+To create a heading, add one to six **#** symbols before your heading text. The number of **#** you use will determine the size of the heading.
+```# The largest heading```
+```## The second largest heading```
+```###### The smallest heading```
+
+
 ---
 > ## contact 💬
 
