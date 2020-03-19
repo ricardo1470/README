@@ -1,6 +1,6 @@
 > # How to create your README
 ---
-![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-20-blue.svg)
+![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-21-blue.svg)
 
 ---
 ![README](https://bulldogjob.com/system/readables/covers/000/001/455/max_res/8-10-2018.png)
@@ -82,6 +82,22 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 This site was built using [GitHub Pages](https://pages.github.com/).
 ```
 This site was built using [GitHub Pages](https://pages.github.com/)
+
+### tables
+
+you can create tables:
+```
+|col1|col2|col3|
+|----|----|----|
+|row |    |    |
+|row2|    |    |
+|row3|    |    |
+```
+|col1|col2|col3|
+|----|----|----|
+|row |    |    |
+|row2|    |    |
+|row3|    |    |
 
 ### Lists
 You can make an unordered list by preceding one or more lines of text with - or *.
