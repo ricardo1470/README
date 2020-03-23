@@ -1,6 +1,6 @@
 > # How to create your README
 ---
-![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-27-blue.svg)
+![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-28-blue.svg)
 
 ---
 ![README](https://bulldogjob.com/system/readables/covers/000/001/455/max_res/8-10-2018.png)
@@ -10,10 +10,10 @@
 * [What is Markdown](#What-is-Markdown)
 * [What is it for](#What-is-it-for)
 * [Structure of a readme](#Structure-of-a-readme)
-* [Introduction](#Introduction)
-* [Project information](#Project-information)
-* [Documentation](#Documentation)
-* [Extra information](#Extra-information)
+  * [Introduction](#Introduction)
+  * [Project information](#Project-information)
+  * [Documentation](#Documentation)
+  * [Extra information](#Extra-information)
 * [Basic writing and formatting syntax](#Basic-writing-and-formatting-syntax)
   * [Headings](#Headings)
   * [Styling text](#Styling-text)
@@ -23,7 +23,7 @@
   * [tables](#tables)
   * [Lists](#Lists)
   * [Nested Lists](#Nested-Lists)
-* [contact](#contact)
+
 ---
 
 A readme is much more than plain text, a readme is what visitors first observe in a repository, so we must have a little attention when creating it so we can capture the attention of visitors, in addition to being colorful it will cause a good impression, and will give confidence.
