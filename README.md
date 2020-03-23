@@ -7,21 +7,22 @@
 ---
 > ## Table of Contents
 
-* [What is Markdown](#What is Markdown)
-* [What is it for](#What is it for)* [Structure of a readme](#Structure of a readme)
+* [What_is_Markdown](#What is Markdown)
+* [What_is_it_for](#What is it for)
+* [Structure_of_a_readme](#Structure of a readme)
 * [Introduction](#Introduction)
-* [Project information](#Project information)
+* [Project_information](#Project information)
 * [Documentation](#Documentation)
-* [Extra information](#Extra information)
-* [Basic writing and formatting syntax](#Basic writing and formatting syntax)
+* [Extra_information](#Extra information)
+* [Basic_writing_and_formatting_syntax](#Basic writing and formatting syntax)
   * [Headings](#Headings)
-  * [Styling text](#Styling text)
-  * [Quoting text](#Quoting text)
-  * [Quoting code](#Quoting code)
+  * [Styling_text](#Styling text)
+  * [Quoting_text](#Quoting text)
+  * [Quoting_code](#Quoting code)
   * [Links](#Links) 
   * [tables](#tables)
   * [Lists](#Lists)
-  * [Nested Lists](#Nested Lists)
+  * [Nested_Lists](#Nested Lists)
 * [contact](#contact)
 
 A readme is much more than plain text, a readme is what visitors first observe in a repository, so we must have a little attention when creating it so we can capture the attention of visitors, in addition to being colorful it will cause a good impression, and will give confidence.
