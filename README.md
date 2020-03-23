@@ -1,28 +1,28 @@
 > # How to create your README
 ---
-![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-22-blue.svg)
+![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-25-blue.svg)
 
 ---
 ![README](https://bulldogjob.com/system/readables/covers/000/001/455/max_res/8-10-2018.png)
 ---
 > ## Table of Contents
 
-* [What_is_Markdown](#What is Markdown)
-* [What_is_it_for](#What is it for)
-* [Structure_of_a_readme](#Structure of a readme)
+* [WhatisMarkdown](#What is Markdown)
+* [Whatisitfor](#What is it for)
+* [Structureofareadme](#Structure of a readme)
 * [Introduction](#Introduction)
-* [Project_information](#Project information)
+* [Projectinformation](#Project information)
 * [Documentation](#Documentation)
-* [Extra_information](#Extra information)
-* [Basic_writing_and_formatting_syntax](#Basic writing and formatting syntax)
+* [Extrainformation](#Extra information)
+* [Basicwritingandformattingsyntax](#Basic writing and formatting syntax)
   * [Headings](#Headings)
-  * [Styling_text](#Styling text)
-  * [Quoting_text](#Quoting text)
-  * [Quoting_code](#Quoting code)
+  * [Stylingtext](#Styling text)
+  * [Quotingtext](#Quoting text)
+  * [Quotingcode](#Quoting code)
   * [Links](#Links) 
   * [tables](#tables)
   * [Lists](#Lists)
-  * [Nested_Lists](#Nested Lists)
+  * [NestedLists](#Nested Lists)
 * [contact](#contact)
 
 A readme is much more than plain text, a readme is what visitors first observe in a repository, so we must have a little attention when creating it so we can capture the attention of visitors, in addition to being colorful it will cause a good impression, and will give confidence.
