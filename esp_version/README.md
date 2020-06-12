@@ -159,12 +159,12 @@ Puede crear una lista anidada sangrando uno o más elementos de la lista debajo 
 
 ```
 1. Primer elemento de la lista
-   - egundo elemento de la lista anidada
+   - segundo elemento de la lista anidada
      - tercer elemento de la lista anidada
 ```	 
 
 1. Primer elemento de la lista
-   - egundo elemento de la lista anidada
+   - segundo elemento de la lista anidada
      - third nested list item
 
 
