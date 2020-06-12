@@ -1,6 +1,6 @@
 > # How to create your README
 ---
-![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-28-blue.svg)
+![Readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-28-blue.svg)
 
 ---
 ![README](https://bulldogjob.com/system/readables/covers/000/001/455/max_res/8-10-2018.png)
@@ -133,7 +133,7 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 |row3|    |    |
 
 ### Lists
-You can make an unordered list by preceding one or more lines of text with - or *.
+You can make an unordered list by preceding one or more lines of text with `-` or `*`.
 ```
 - George Washington
 - John Adams
@@ -142,6 +142,7 @@ You can make an unordered list by preceding one or more lines of text with - or 
 - George Washington
 - John Adams
 - Thomas Jefferson
+
 To order your list, precede each line with a number.
 ```
 1. James Madison
@@ -153,18 +154,23 @@ To order your list, precede each line with a number.
 3. John Quincy Adams
 ### Nested Lists
 You can create a nested list by indenting one or more list items below another item.
+
 ```
 1. First list item
    - second nested list item
      - third nested list item
 ```	 
+
 1. First list item
    - second nested list item
      - third nested list item
 
 
 ---
+
 > ## contact 💬
 
-### | [twitter](https://twitter.com/RICARDO1470) | [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/) | [mail](1466@holbertonschool.com) | [github](https://github.com/ricardo1470/README/blob/master/README.md) |
+| [twitter](https://twitter.com/RICARDO1470) | [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/) | [mail](1466@holbertonschool.com) | [github](https://github.com/ricardo1470/README/blob/master/README.md) |
+|---|---|---|---|
+
 ---
