@@ -23,7 +23,9 @@
   * [Tablas](#Tablas)
   * [Listas](#Listas)
   * [Listas Anidadas](#Listas-Anidadas)
-
+  * [Imageness](#Imagenes)
+    * [Local](Local)
+    * [externas](#externas)
 ---
 
 Un archivo Léame es mucho más que texto simple, un archivo Léame es lo que los visitantes observan por primera vez en un repositorio, por lo que debemos tener un poco de atención al crearlo para poder captar la atención de los visitantes, además de ser colorido, causará una buena impresión , y le dará confianza. Lo que sugiere que es más probable que el código preste atención a los detalles y al mantenimiento.
@@ -166,6 +168,34 @@ Puede crear una lista anidada sangrando uno o más elementos de la lista debajo 
 1. Primer elemento de la lista
    - segundo elemento de la lista anidada
      - tercer elemento de la lista anidada
+
+### Images
+puedes agregar imágenes alojadas local y externamente
+ * Local
+
+ Para vincular una imagen de nuestro repositorio, debe cargar la imagen en el repositorio donde desea alojar la imagen y copiar la URL asignada.
+
+ Las etiquetas `HTML` se pueden usar para manipular la imagen, ajustando así el `ancho` y el `alto`.
+
+ `texto alternativo` + `url`
+ ```html
+ <a href="texto alternativo"><img src="url" align="middle" width="desired width" height="desired heigh"></a>
+ ```
+ ```html
+ <a href="logo github"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
+ ```
+ <a href="logo github"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
+
+ * Externas
+ 
+ de la misma manera que las imágenes se agregan localmente, se puede hacer con imágenes alojadas en servidores externos a `github`.
+ ```html
+ <a href="texto alternativo"><img src="url" align="middle" width="desired width" height="desired heigh"></a>
+ ```
+ ```html
+ <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
+ ```
+ <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
 
 
 ---
