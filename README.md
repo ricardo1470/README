@@ -171,11 +171,19 @@ You can create a nested list by indenting one or more list items below another i
 ### Images
 you can add locally and externally hosted images
  * Local
- alternative text + image path with its extension
+ In order to link an image from our repository, you must upload the image to the repository where you want to host the image and copy the url assigned to it.
+
+ HTML tags can be used to manipulate the image, thus adjusting the width and height.
+
+ alternative text + url
  ```html
- <a href="url"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
+ <a href="alternative text"><img src="url" align="middle" width="100" height="50"></a>
  ```
- <a href="url"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
+ ```html
+ <a href="logo github"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
+ ```
+ <a href="logo github"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
+
  * Outside
 
 ---
