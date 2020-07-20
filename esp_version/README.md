@@ -254,7 +254,7 @@ def fizzbuzz():
         else:
             print("{:d}".format(i), end=" ")
  ```
- codigo en HTML:
+ codigo en `ruby`:
 
  código sin formato:
  ```
@@ -267,6 +267,7 @@ código con formato:
 #!/usr/bin/env ruby
 puts ARGV[0].scan(/^\d{10}$/)
 ```
+codigo en `bash`:
 código sin formato:
  ```
 #!/bin/bash
@@ -277,7 +278,8 @@ código con formato:
  ```bash
 #!/bin/bash
 rm *[~]
-``` 
+```
+codigo en `c`:
 código sin formato:
  ```
 int main(void)
