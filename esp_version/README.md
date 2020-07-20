@@ -256,6 +256,16 @@ código con formato:
   <head>
   </head>
 </html>
+```
+código sin formato:
+ ```
+#!/bin/bash
+rm *[~]
+```
+código con formato:
+ ```bash
+#!/bin/bash
+rm *[~]
 ``` 
  
 ---

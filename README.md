@@ -255,9 +255,16 @@ formatted code:
   </head>
 </html>
 ``` 
-
- 
-
+raw code:
+ ```
+#!/bin/bash
+rm *[~]
+```
+formatted code:
+ ```bash
+#!/bin/bash
+rm *[~]
+``` 
 ---
 
 > ## contact 💬
