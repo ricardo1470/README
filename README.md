@@ -220,7 +220,8 @@ code
 \```
 
  for example:
- code in language `Python`
+
+ > code in language `Python`
  raw code:
  ```
 #!/usr/bin/python3
@@ -252,7 +253,7 @@ def fizzbuzz():
             print("{:d}".format(i), end=" ")
  ```
 
- code in `ruby`:
+ > code in `ruby`:
 
  raw code:
  ```
@@ -265,7 +266,7 @@ formatted code:
 #!/usr/bin/env ruby
 puts ARGV[0].scan(/^\d{10}$/)
 ```
-code in `bash`:
+> code in `bash`:
 raw code:
  ```
 #!/bin/bash
@@ -277,7 +278,7 @@ formatted code:
 #!/bin/bash
 rm *[~]
 ```
-code in `c`:
+> code in `c`:
 raw code:
  ```
 int main(void)
