@@ -26,6 +26,7 @@
   * [Imagenes](#Imagenes)
     * [Local](Local)
     * [Externas](#Externas)
+  * [Formato](#Formato)
 ---
 
 Un archivo Léame es mucho más que texto simple, un archivo Léame es lo que los visitantes observan por primera vez en un repositorio, por lo que debemos tener un poco de atención al crearlo para poder captar la atención de los visitantes, además de ser colorido, causará una buena impresión , y le dará confianza. Lo que sugiere que es más probable que el código preste atención a los detalles y al mantenimiento.
@@ -197,7 +198,66 @@ puedes agregar imágenes alojadas local y externamente
  ```
  <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
 
+### formato
 
+puede formatear fragmentos de código, de acuerdo al lenguaje en el que este trabajando o al que quiere referirse.
+
+Para agregar formato al código, debemos agregar el nombre del lenguaje después de crear el bloque de código con  \``` (lenguaje de referencia) ```, de esta manera el código se formateará con ese lenguaje.
+
+\```lenguaje de referencia
+
+codigo
+
+\```
+
+por ejemplo: 
+codigo en lenguaje `Python`:
+código sin formato:
+ ```
+#!/usr/bin/python3
+def fizzbuzz():
+    for i in range(1, 101):
+        if (i % 3 == 0 and i % 5 == 0):
+            print("FizzBuzz", end=" ")
+        elif (i % 3 == 0):
+            print("Fizz", end=" ")
+        elif (i % 5 == 0):
+            print("Buzz", end=" ")
+        else:
+            print("{:d}".format(i), end=" ")
+
+ ```
+ codigo con formato:
+ ```python
+#!/usr/bin/python3
+def fizzbuzz():
+    for i in range(1, 101):
+        if (i % 3 == 0 and i % 5 == 0):
+            print("FizzBuzz", end=" ")
+        elif (i % 3 == 0):
+            print("Fizz", end=" ")
+        elif (i % 5 == 0):
+            print("Buzz", end=" ")
+        else:
+            print("{:d}".format(i), end=" ")
+ ```
+ codigo en HTML:
+
+ código sin formato:
+ ```
+<html>
+  <head>
+  </head>
+</html>
+```
+código con formato:
+ ```html
+<html>
+  <head>
+  </head>
+</html>
+``` 
+ 
 ---
 
 > ## contacto 💬

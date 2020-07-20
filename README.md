@@ -26,6 +26,7 @@
   * [Images](#Images)
     * [Local](Local)
     * [Outside](#Outside)
+  * [Format](#Format)
 
 ---
 
@@ -193,6 +194,69 @@ you can add locally and externally hosted images
  <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
  ```
  <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
+
+ ### Format
+
+ you can format code snippets, according to the language in which you are working or to which you want to refer
+
+ To add format to the code we must add the name of the language after creating the code block with \```(referenced language)```, in this way the code will be formatted with that language.
+
+ \```referenced language
+
+code
+
+\```
+
+ for example:
+ code in language `Python`
+ raw code:
+ ```
+#!/usr/bin/python3
+def fizzbuzz():
+    for i in range(1, 101):
+        if (i % 3 == 0 and i % 5 == 0):
+            print("FizzBuzz", end=" ")
+        elif (i % 3 == 0):
+            print("Fizz", end=" ")
+        elif (i % 5 == 0):
+            print("Buzz", end=" ")
+        else:
+            print("{:d}".format(i), end=" ")
+
+ ```
+ formatted code:
+ ```python
+#!/usr/bin/python3
+def fizzbuzz():
+    for i in range(1, 101):
+        if (i % 3 == 0 and i % 5 == 0):
+            print("FizzBuzz", end=" ")
+        elif (i % 3 == 0):
+            print("Fizz", end=" ")
+        elif (i % 5 == 0):
+            print("Buzz", end=" ")
+        else:
+            print("{:d}".format(i), end=" ")
+ ```
+
+ code in HTML:
+
+ raw code:
+ ```
+<html>
+  <head>
+  </head>
+</html>
+```
+formatted code:
+ ```html
+<html>
+  <head>
+  </head>
+</html>
+``` 
+
+ 
 
 ---
 
