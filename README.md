@@ -1,6 +1,6 @@
 > # How to create your README
 ---
-![Readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-28-blue.svg)
+![Readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![commits](https://img.shields.io/badge/commits-53-blue.svg)
 
 ---
 ![README](https://bulldogjob.com/system/readables/covers/000/001/455/max_res/8-10-2018.png)
