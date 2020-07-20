@@ -195,7 +195,8 @@ you can add locally and externally hosted images
  ```
  <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
 
- ### Format
+
+### Format
 
  you can format code snippets, according to the language in which you are working or to which you want to refer
 
