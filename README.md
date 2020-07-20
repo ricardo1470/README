@@ -207,6 +207,18 @@ code
 
 \```
 
+\```python
+
+code
+
+\```
+
+\```ruby
+
+code
+
+\```
+
  for example:
  code in language `Python`
  raw code:
@@ -225,6 +237,7 @@ def fizzbuzz():
 
  ```
  formatted code:
+ \```python
  ```python
 #!/usr/bin/python3
 def fizzbuzz():
@@ -243,17 +256,14 @@ def fizzbuzz():
 
  raw code:
  ```
-<html>
-  <head>
-  </head>
-</html>
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/^\d{10}$/)
 ```
 formatted code:
- ```html
-<html>
-  <head>
-  </head>
-</html>
+\```ruby
+ ```ruby
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/^\d{10}$/)
 ``` 
 raw code:
  ```
@@ -261,10 +271,30 @@ raw code:
 rm *[~]
 ```
 formatted code:
+\```bash
  ```bash
 #!/bin/bash
 rm *[~]
-``` 
+```
+raw code:
+ ```
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
+
+```
+formatted code:
+\```c
+ ```c
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
+```
+
 ---
 
 > ## contact 💬

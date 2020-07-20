@@ -210,6 +210,18 @@ codigo
 
 \```
 
+\```python
+
+codigo
+
+\```
+
+\```ruby
+
+codigo
+
+\```
+
 por ejemplo: 
 codigo en lenguaje `Python`:
 código sin formato:
@@ -228,6 +240,7 @@ def fizzbuzz():
 
  ```
  codigo con formato:
+ \```python
  ```python
 #!/usr/bin/python3
 def fizzbuzz():
@@ -245,17 +258,14 @@ def fizzbuzz():
 
  código sin formato:
  ```
-<html>
-  <head>
-  </head>
-</html>
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/^\d{10}$/)
 ```
 código con formato:
- ```html
-<html>
-  <head>
-  </head>
-</html>
+\```ruby
+ ```ruby
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/^\d{10}$/)
 ```
 código sin formato:
  ```
@@ -263,9 +273,27 @@ código sin formato:
 rm *[~]
 ```
 código con formato:
+\```bash
  ```bash
 #!/bin/bash
 rm *[~]
+``` 
+código sin formato:
+ ```
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
+```
+código con formato:
+\```c
+ ```c
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
 ``` 
  
 ---
