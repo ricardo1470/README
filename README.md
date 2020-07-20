@@ -173,9 +173,9 @@ you can add locally and externally hosted images
  * Local
  alternative text + image path with its extension
  ```
- [logo](../README/logo_github.png)
+ <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
  ```
- [logo](/README/logo_github.png)
+ <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
  * Outside
 
 ---
