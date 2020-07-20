@@ -221,7 +221,8 @@ code
 
  for example:
 
- > code in language `Python`
+ > code in language `Python`:
+
  raw code:
  ```
 #!/usr/bin/python3
@@ -267,6 +268,7 @@ formatted code:
 puts ARGV[0].scan(/^\d{10}$/)
 ```
 > code in `bash`:
+
 raw code:
  ```
 #!/bin/bash
@@ -279,6 +281,7 @@ formatted code:
 rm *[~]
 ```
 > code in `c`:
+
 raw code:
  ```
 int main(void)

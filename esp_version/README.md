@@ -270,6 +270,7 @@ código con formato:
 puts ARGV[0].scan(/^\d{10}$/)
 ```
 > codigo en `bash`:
+
 código sin formato:
  ```
 #!/bin/bash
@@ -282,6 +283,7 @@ código con formato:
 rm *[~]
 ```
 > codigo en `c`:
+
 código sin formato:
  ```
 int main(void)
