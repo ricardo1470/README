@@ -173,9 +173,9 @@ you can add locally and externally hosted images
  * Local
  In order to link an image from our repository, you must upload the image to the repository where you want to host the image and copy the url assigned to it.
 
- HTML tags can be used to manipulate the image, thus adjusting the width and height.
+ `HTML` tags can be used to manipulate the image, thus adjusting the `width` and `height`.
 
- alternative text + url
+ `alternative text` + `url`
  ```html
  <a href="alternative text"><img src="url" align="middle" width="desired width" height="desired heigh"></a>
  ```
@@ -185,6 +185,14 @@ you can add locally and externally hosted images
  <a href="logo github"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
 
  * Outside
+ in the same way that images are added locally, it can be done with images that are hosted on external servers to `github`.
+ ```html
+ <a href="alternative text"><img src="url" align="middle" width="desired width" height="desired heigh"></a>
+ ```
+ ```html
+ <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
+ ```
+ <a href="logo github"><img src="https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png" align="middle" width="100" height="50"></a>
 
 ---
 
