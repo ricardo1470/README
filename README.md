@@ -23,6 +23,9 @@
   * [tables](#tables)
   * [Lists](#Lists)
   * [Nested Lists](#Nested-Lists)
+  * [Images](#Images)
+    * [Local](Local)
+    * [Outside](#Outside)
 
 ---
 
@@ -165,6 +168,15 @@ You can create a nested list by indenting one or more list items below another i
    - second nested list item
      - third nested list item
 
+### Images
+you can add locally and externally hosted images
+ * Local
+ alternative text + image path with its extension
+ ```
+ [logo](../README/logo_github.png)
+ ```
+ [logo](/README/logo_github.png)
+ * Outside
 
 ---
 
