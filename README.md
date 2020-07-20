@@ -175,7 +175,7 @@ you can add locally and externally hosted images
  ```html
  <a href="url"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
  ```
- <a href="url"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="30"></a>
+ <a href="url"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
  * Outside
 
 ---
