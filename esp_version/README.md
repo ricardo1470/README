@@ -23,9 +23,9 @@
   * [Tablas](#Tablas)
   * [Listas](#Listas)
   * [Listas Anidadas](#Listas-Anidadas)
-  * [Imageness](#Imagenes)
+  * [Imagenes](#Imagenes)
     * [Local](Local)
-    * [externas](#externas)
+    * [Externas](#Externas)
 ---
 
 Un archivo Léame es mucho más que texto simple, un archivo Léame es lo que los visitantes observan por primera vez en un repositorio, por lo que debemos tener un poco de atención al crearlo para poder captar la atención de los visitantes, además de ser colorido, causará una buena impresión , y le dará confianza. Lo que sugiere que es más probable que el código preste atención a los detalles y al mantenimiento.
@@ -187,7 +187,7 @@ puedes agregar imágenes alojadas local y externamente
  <a href="logo github"><img src="https://github.com/ricardo1470/README/blob/master/img/logo_github.png" align="middle" width="100" height="50"></a>
 
  * Externas
- 
+
  de la misma manera que las imágenes se agregan localmente, se puede hacer con imágenes alojadas en servidores externos a `github`.
  ```html
  <a href="texto alternativo"><img src="url" align="middle" width="desired width" height="desired heigh"></a>
