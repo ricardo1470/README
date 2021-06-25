@@ -303,8 +303,7 @@ int main(void)
 ```
 ---
 > ## Built with
-this project was built in: `Nodejs`, `ejs`, `Express`, `PostgreSQL`, `Faker`
-
+this project was built in: `html`, `marckdown`
 ---
 > ## Expressions of Gratitude
 ---
