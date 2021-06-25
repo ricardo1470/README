@@ -163,7 +163,7 @@ You can create a nested list by indenting one or more list items below another i
 1. First list item
    - second nested list item
      - third nested list item
-```	 
+```
 
 1. First list item
    - second nested list item
@@ -301,7 +301,15 @@ int main(void)
 	return (0);
 }
 ```
+---
+> ## Built with
+this project was built in: `Nodejs`, `ejs`, `Express`, `PostgreSQL`, `Faker`
 
+---
+> ## Expressions of Gratitude
+---
+* `Tell others about this project`
+* `invite you for a beer` 🍺 `or a coffee` ☕
 ---
 
 > ## contact 💬
@@ -311,12 +319,9 @@ int main(void)
 
 ---
 
----
-
 ## License
 *`How to create your README` is open source and therefore free to download and use without permission.*
 
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
 
 ---
-
